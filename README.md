@@ -42,7 +42,7 @@ Usage
 Supported whiskies
 ------------------
 	aberfeldy aberlour ancnoc ardbeg ardmore arranisleof auchentoshan 
-	auchroisk aultmore balblair balmenach belvenie bennevis benriach 
+	auchroisk aultmore balblair balmenach balvenie bennevis benriach 
 	benrinnes benromach bladnoch blairathol bowmore bruichladdich 
 	bunnahabhain caol ila cardhu clynelish craigallechie craigganmore 
 	dailuaine dalmore dalwhinnie deanston dufftown edradour glenallachie 
